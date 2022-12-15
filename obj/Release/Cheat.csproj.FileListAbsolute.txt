@@ -1,0 +1,16 @@
+C:\Users\smoky\Source\Repos\Cheat\obj\Release\Cheat.csproj.AssemblyReference.cache
+C:\Users\smoky\Source\Repos\Cheat\obj\Release\Cheat.csproj.SuggestedBindingRedirects.cache
+C:\Users\smoky\Source\Repos\Cheat\obj\Release\Cheat.Form1.resources
+C:\Users\smoky\Source\Repos\Cheat\obj\Release\Cheat.Properties.Resources.resources
+C:\Users\smoky\Source\Repos\Cheat\obj\Release\Cheat.csproj.GenerateResource.cache
+C:\Users\smoky\Source\Repos\Cheat\obj\Release\Cheat.csproj.CoreCompileInputs.cache
+C:\Users\smoky\Source\Repos\Cheat\bin\Release\SmokyCheat.exe.config
+C:\Users\smoky\Source\Repos\Cheat\bin\Release\SmokyCheat.exe.manifest
+C:\Users\smoky\Source\Repos\Cheat\bin\Release\SmokyCheat.application
+C:\Users\smoky\Source\Repos\Cheat\bin\Release\SmokyCheat.exe
+C:\Users\smoky\Source\Repos\Cheat\bin\Release\SmokyCheat.pdb
+C:\Users\smoky\Source\Repos\Cheat\obj\Release\SmokyCheat.TrustInfo.xml
+C:\Users\smoky\Source\Repos\Cheat\obj\Release\SmokyCheat.exe.manifest
+C:\Users\smoky\Source\Repos\Cheat\obj\Release\SmokyCheat.application
+C:\Users\smoky\Source\Repos\Cheat\obj\Release\SmokyCheat.exe
+C:\Users\smoky\Source\Repos\Cheat\obj\Release\SmokyCheat.pdb
